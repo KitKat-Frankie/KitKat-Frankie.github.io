@@ -8,3 +8,17 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 
 #Name of Website
 title: My Profile Website
+
+# Your name to show in the footer
+author: Frank Lamptey
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://kitkat-frankie.github.io/"
