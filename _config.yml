@@ -22,3 +22,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "myresume"
+  Works&Projects:
+    - Projects: "projects"
+    - Certifications: "certificates"
+    - Animations: "animations"
