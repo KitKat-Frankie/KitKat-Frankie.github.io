@@ -1,1 +1,10 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
+#####################################################################
+######## My Website Configuration File
+########Refer to 
+######## https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+######## for more configuration options
+#####################################################################
+
+#Name of Website
+title: My Profile Website
