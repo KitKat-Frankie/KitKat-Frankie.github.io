@@ -16,7 +16,7 @@ Some areas I’m diving into:
 
 For me, cybersecurity isn’t just about defense — it’s about understanding systems at their core and staying one step ahead.
 
->## One of my long-term goals is to work as a **Site Reliability Engineer (SRE)** — combining my interest in reliability, automation, and system performance.
+>## One of my long-term goals is to work as a **Site Reliability Security Engineer (SRE)** — combining my interest in security, reliability, automation, and system performance.
 
 ## 3D Animation Journey
 Now here’s where my geek side meets my creative side.  
