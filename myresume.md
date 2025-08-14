@@ -50,9 +50,9 @@ Monitored, detected, and responded to security incidents across the enterprise u
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 10px;">
     <img src="assets/images/thumbnails/ceh.png" alt="CEH Logo" style="width: 80px; height: 80px; border-radius: 10px;">
-    <img src="assets/images/thumbnails/hcia.png" alt="HCIA Logo" style="width: 80px; height: 80px; border-radius: 10px;">
-    <img src="assets/images/thumbnails/isc2.png" alt="ISC2 Logo" style="width: 80px; height: 80px; border-radius: 10px;">
-    <img src="assets/images/thumbnails/google.png" alt="Google Logo" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="assets/images/thumbnails/master.png" alt="CEH Master Logo" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="assets/images/thumbnails/isc2cc.png" alt="ISC2 Logo" style="width: 80px; height: 80px; border-radius: 10px;">
+    <img src="assets/images/thumbnails/itsupport.png" alt="IT Support" style="width: 80px; height: 80px; border-radius: 10px;">
     <img src="assets/images/thumbnails/chfi.png" alt="CHFI Logo" style="width: 80px; height: 80px; border-radius: 10px;">
     <img src="assets/images/thumbnails/ibm.png" alt="IBM Logo" style="width: 80px; height: 80px; border-radius: 10px;">
     <img src="assets/images/thumbnails/azure.png" alt="Azure Logo" style="width: 80px; height: 80px; border-radius: 10px;">
