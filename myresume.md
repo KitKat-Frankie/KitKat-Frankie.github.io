@@ -1,5 +1,5 @@
 ---
-title: "My Professional Cybersecurity Resume"
+title: "My Resume"
 description: "Cybersecurity Engineer | Penetration Tester | Incident Response Specialist"
 ---
 
