@@ -1,7 +1,4 @@
----
-layout: page
-title: "Welcome to My Website 🤓🚀❤️"
----
+
 > # Welcome to my page
 ![Frank Ago Lamptey](/assets/images/frank.png){:style="width:220px; height:220px; border-radius:50%; object-fit:cover; display:block; margin-left:auto; margin-right:auto;"}
 
