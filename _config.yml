@@ -23,7 +23,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   Resume: "myresume"
   More:
-    - Projects: "projects"
+    - Projects:
+        - Simple Auth & CRUD API: "https://github.com/KitKat-Frankie/into_back_end"
     - My Badges: "https://www.credly.com/users/frank-lamptey.e0602805/badges#credly"
     - Animations: "animations"
 
